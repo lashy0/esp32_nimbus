@@ -1,0 +1,3 @@
+[submodule "firmware/components/bme680/bme68x_api"]
+	path = firmware/components/bme680/bme68x_api
+	url = https://github.com/boschsensortec/BME68x_SensorAPI
